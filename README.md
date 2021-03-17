@@ -1,7 +1,7 @@
 # DG
 ## Who We Are
-We Are a Team Of two and are on a Mission To DG
-What DG Means Will STAY as a Secret.
+We Are a Team Of two and are on a Mission To DG,
+What DG Means Will STAY Secretive.
 ## What Is DG 
 Basicly an OS or WebOS built Secure and Private, With Speed in Mind.
 ## Minimun Requirements
